@@ -1,0 +1,10 @@
+body{
+font-family: 'Uchen', serif;
+}
+.name-of-company{
+    display: flex;
+}
+.title-of-company{
+    text-align: center;
+    color: darkturquoise;
+}
