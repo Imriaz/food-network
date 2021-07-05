@@ -10,10 +10,16 @@ font-family: 'Uchen', serif;
 }
 .foodhouse-details{
     display: flex;
+    margin-bottom: 50px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
 }
 
 .foodhouse-details img{
-    width: 50%;
+    width: 60%;
 }
 .text-color{
     color:violet;
@@ -30,5 +36,5 @@ font-family: 'Uchen', serif;
     display: flex;
 }
 .about-me img{
-    width: 100%;
+    width: 50%;
 }
