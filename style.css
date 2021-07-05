@@ -8,3 +8,27 @@ font-family: 'Uchen', serif;
     text-align: center;
     color: darkturquoise;
 }
+.foodhouse-details{
+    display: flex;
+}
+
+.foodhouse-details img{
+    width: 50%;
+}
+.text-color{
+    color:violet;
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(red,orange);
+    color: black;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 50px;
+}
+.about-me{
+    display: flex;
+}
+.about-me img{
+    width: 100%;
+}
