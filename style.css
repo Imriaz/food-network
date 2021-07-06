@@ -25,6 +25,7 @@ font-family: 'Uchen', serif;
 }
 
 .foodhouse-details{
+    margin-top: 50px;
     display: flex;
     margin-bottom: 50px;
 }
