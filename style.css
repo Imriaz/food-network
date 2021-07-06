@@ -91,12 +91,11 @@ font-family: 'Uchen', serif;
 }
 .one-third-width img{
     border-radius: 10%;
-    width: 80%;
+    width: 100%;
 }
 .box-shadow{
-    box-shadow: 2px 2px 2px 2px pink;
-    border-radius: 10%;
-    
+    box-shadow: 4px 4px 4px 4px aqua;
+    border-radius: 10%;  
 }
 #justify-food-details{
     text-align: justify;
