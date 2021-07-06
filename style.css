@@ -21,7 +21,7 @@ font-family: 'Uchen', serif;
 .foodhouse-details img{
     width: 60%;
 }
-.text-color{
+.violet-color-text{
     color:violet;
 }
 .link-button {
@@ -34,7 +34,43 @@ font-family: 'Uchen', serif;
 }
 .about-me{
     display: flex;
+    padding-right: 50px; 
 }
 .about-me img{
+    padding-left: 50px;
     width: 50%;
+}
+
+.banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+}
+.blue-color-text{
+    color: blue;
+}
+#My-recipies-header{
+    text-align: center;
+}
+#My-recipies-list{
+    text-align: center;
+}
+.recipies-list{
+    display: flex;
+}
+.one-third-width{
+    width: 33.33%;
+    padding:5%;
+    
+}
+.one-third-width img{
+    width: 80%;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
