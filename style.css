@@ -26,8 +26,8 @@ font-family: 'Uchen', serif;
 }
 .link-button {
     text-decoration: none;
-    background-image: linear-gradient(red,orange);
-    color: black;
+    background-image: linear-gradient(green,yellow);
+    color: white;
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 50px;
@@ -49,6 +49,7 @@ font-family: 'Uchen', serif;
 .blue-color-text{
     color: blue;
 }
+
 #My-recipies-header{
     text-align: center;
 }
@@ -57,14 +58,37 @@ font-family: 'Uchen', serif;
 }
 .recipies-list{
     display: flex;
+    margin-bottom: 80px;
 }
 .one-third-width{
-    width: 33.33%;
-    padding:5%;
+    margin: 40px;
+    /* margin-left: 40px;
+    margin-right: 40px; */
+    border-radius: 5px;
+    width: 25%;
+    padding:2%;
     
 }
 .one-third-width img{
+    border-radius: 10%;
     width: 80%;
+}
+.box-shadow{
+    box-shadow: 2px 2px 2px 2px pink;
+    border-radius: 10%;
+    
+}
+#justify-food-details{
+    text-align: justify;
+}
+
+.Find-us{
+    margin: 50px;
+    border-radius: 30px;
+    background-image: url(images/shapes/About\ us\ border.jpg);
+    padding-left: 30px;
+    padding-right: 30px;
+    background-repeat:no-repeat;
 }
 
 footer{
