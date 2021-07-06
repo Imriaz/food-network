@@ -8,6 +8,10 @@ font-family: 'Uchen', serif;
     text-align: center;
     color: darkturquoise;
 }
+.logo-frame{
+    background-image: url(images/shapes/Logo\ Frame.jpg);
+    background-repeat: no-repeat;
+}
 .foodhouse-details{
     display: flex;
     margin-bottom: 50px;
@@ -86,8 +90,7 @@ font-family: 'Uchen', serif;
     margin: 50px;
     border-radius: 30px;
     background-image: url(images/shapes/About\ us\ border.jpg);
-    padding-left: 30px;
-    padding-right: 30px;
+    padding: 15px;
     background-repeat:no-repeat;
 }
 
